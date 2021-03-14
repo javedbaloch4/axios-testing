@@ -209,3 +209,5 @@ document.getElementById("headers").addEventListener('click', customHeaders);
 document.getElementById("transform").addEventListener('click', transformResponse);
 document.getElementById("errors").addEventListener('click', errorHandling);
 document.getElementById("cancel").addEventListener('click', cancelToken);
+
+
